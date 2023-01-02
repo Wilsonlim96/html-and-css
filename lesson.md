@@ -6,7 +6,7 @@ This lesson aims to kickstart learners in the use of VS Code and creating a simp
 
 ---
 
-## Part 1 - Create a simple biography
+## Part 1 - Create a simple profile page with HTML
 
 ### End of Lesson Goal Demo
 
