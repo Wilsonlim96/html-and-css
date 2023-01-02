@@ -11,11 +11,11 @@ There are two challenges:
 
 Before:
 
-<img src="./assets/images/homework-before.png" width="400px" />
+<img src="./assets/images/homework-before.png" width="400px" style="border:1px solid green" />
 
 After:
 
-<img src="./assets/images/homework-after.png" width="400px" />
+<img src="./assets/images/homework-after.png" width="400px" style="border:1px solid green" />
 
 ## Submission
 
