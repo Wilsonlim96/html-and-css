@@ -2,10 +2,14 @@
 
 ## Brief
 
-This is not mandatory but recommended for students who wish to be better prepared for each lesson. Pre-lesson work may contain reading logs, installation guide (so that you don't have to scramble in class) for lesson use, and practical practices.
+Timebox yourself between 10mins and 60 mins to briefly go through the following reference links:
 
-## {{Enter Title}}
+- [HTML Basic](https://www.w3schools.com/html/html_basic.asp)
+- [CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)
+- [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+- [Ways to insert CSS to HTML](https://www.w3schools.com/css/css_howto.asp)
+- [Cheatsheet for HTML, CSS, JS](https://htmlcheatsheet.com/)
 
-{{Enter Content}}
+> Tips: Do not memorize, simply speed read.
 
 End

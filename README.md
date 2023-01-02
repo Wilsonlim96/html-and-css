@@ -1,12 +1,12 @@
-# Lesson - {{Enter Title}}
+# Lesson - HTML & CSS
 
 ## Lesson Objectives
 
 By the end of this lesson, students would be able to:
 
-- {{objective 1}}
-- {{objective 2}}
-- {{objective 3}}
+- Create a simple biography using basic HTML Tags: `<h1>`, `<p>`, `<img>`, `<ul>`, `<li>`, `<a>`
+- Implement basic CSS Styling: `padding`, `border`, `margin` and CSS Selector: `#id`, `.class`, `tags`
+- Import `.css` file into HTML using the `<link>` tag
 
 ## Resources
 
@@ -15,15 +15,6 @@ By the end of this lesson, students would be able to:
 - [Homework](./homework.md)
 
 ## Lesson Plan
-
-> This is a recommended lesson plan. Instructors are free to re-arrange the flow.
-
-Weekday: 
-- 7:30PM to 10PM
-
-Weekend: 
-- 10AM to 12:30PM or 
-- 2PM to 4:30PM
 
 |Duration|Agenda|Delivery Method|Remarks|
 |-|-|-|-|
