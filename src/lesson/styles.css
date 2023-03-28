@@ -1,21 +1,31 @@
 #avatar {
-    width:400px;
+  width: 400px;
 }
 
 p {
-    margin:20px 50px 20px 50px;
+  margin: 20px 50px 20px 50px;
 }
 
 ul {
-    margin-left:80px;
+  margin-left: 80px;
 }
 
 li {
-    padding:4px;
+  padding: 4px;
 }
 
 .social {
-    background-color:skyblue;
-    color:#34282C;
-    padding:10px;
+  background-color: skyblue;
+  color: #34282c;
+  padding: 10px;
+}
+
+.wilstyle {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+}
+
+#wil-id {
+  margin-top: 10px;
 }
